@@ -28,7 +28,7 @@ import dtuLogo from './assets/education_logo/DTU_logo.png';
 
 // Project Section Logo's
 import tripzyLogo from './assets/work_logo/tripzy.png';
-import ForecastLogo from './assets/work_logo/forecastNow.png';
+import ForecastLogo from './assets/work_logo/ForecastNow.png';
 import formLogo from './assets/work_logo/form.png';
 import tictactoeLogo from './assets/work_logo/tic-tac-toe.png';
 
