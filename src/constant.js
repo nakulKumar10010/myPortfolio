@@ -22,7 +22,7 @@ import mcLogo from './assets/tech_logo/mc.png';
 import vercelLogo from './assets/tech_logo/vercel.png';
 
 // Education Section Logo's
-import ghpsLogo from './assets/education_logo/ghps_logo.png';
+import ghpsLogo from './assets/education_logo/GHPS_logo.png';
 import dtuLogo from './assets/education_logo/DTU_logo.png';
 
 
